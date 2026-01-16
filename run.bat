@@ -1,0 +1,3 @@
+@echo off
+echo Opening Music Landing Page...
+start "" "index.html"
