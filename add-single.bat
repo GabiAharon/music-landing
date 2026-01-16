@@ -1,0 +1,3 @@
+@echo off
+echo Opening Admin Panel...
+start "" "admin.html"
